@@ -1,2 +1,2 @@
 # Le Oracle De Anos Garasmitenos
-A proof of concept space shooter that allows the player to consult an oracle.
+A space shooter where women are enlisted for space wars rather than men. And captured enemy soldiers are guillotined. Here you can consult an oracle to gain details about battle strategies.
